@@ -1,0 +1,7 @@
+google-cloud-aiplatform
+gradio
+pdfminer
+nltk
+langchain
+PyPDF2
+pdfminer.six
